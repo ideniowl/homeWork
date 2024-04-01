@@ -1,0 +1,15 @@
+C:\Users\idenisov\Desktop\C#\t3\bin\Debug\net8.0\t3.exe
+C:\Users\idenisov\Desktop\C#\t3\bin\Debug\net8.0\t3.deps.json
+C:\Users\idenisov\Desktop\C#\t3\bin\Debug\net8.0\t3.runtimeconfig.json
+C:\Users\idenisov\Desktop\C#\t3\bin\Debug\net8.0\t3.dll
+C:\Users\idenisov\Desktop\C#\t3\bin\Debug\net8.0\t3.pdb
+C:\Users\idenisov\Desktop\C#\t3\obj\Debug\net8.0\t3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idenisov\Desktop\C#\t3\obj\Debug\net8.0\t3.AssemblyInfoInputs.cache
+C:\Users\idenisov\Desktop\C#\t3\obj\Debug\net8.0\t3.AssemblyInfo.cs
+C:\Users\idenisov\Desktop\C#\t3\obj\Debug\net8.0\t3.csproj.CoreCompileInputs.cache
+C:\Users\idenisov\Desktop\C#\t3\obj\Debug\net8.0\t3.sourcelink.json
+C:\Users\idenisov\Desktop\C#\t3\obj\Debug\net8.0\t3.dll
+C:\Users\idenisov\Desktop\C#\t3\obj\Debug\net8.0\refint\t3.dll
+C:\Users\idenisov\Desktop\C#\t3\obj\Debug\net8.0\t3.pdb
+C:\Users\idenisov\Desktop\C#\t3\obj\Debug\net8.0\t3.genruntimeconfig.cache
+C:\Users\idenisov\Desktop\C#\t3\obj\Debug\net8.0\ref\t3.dll
